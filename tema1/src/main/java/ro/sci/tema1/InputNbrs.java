@@ -13,7 +13,7 @@ public class InputNbrs {
             System.out.println("Enter first number: ");
         }
         else {
-            System.out.println("Enter second number: ");
+            System.out.println("Enter second number:        ");
         }
         int no = reader.nextInt();
         return (no);
